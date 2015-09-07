@@ -51,7 +51,7 @@ jQuery(document).ready(function() {
 	$('#visualizar_curriculo').click(function() {
 
 		// window.open("../renangribeiro.pdf");
-		window.open('http://localhost/renangribeiro/renangribeiro.pdf', 'fullscreen=yes');
+		window.open('http://renangribeiro.github.io/renangribeiro.pdf', 'fullscreen=yes');
 
 	
 	});
